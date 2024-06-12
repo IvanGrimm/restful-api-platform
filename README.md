@@ -53,7 +53,7 @@ cd ../client
 npm start
 ```
 
-5. Open your browser and go to `http://localhost:3000` to access the application.
+5. Open your browser and go to `http://localhost:3001` to access the application.
 
 ## License
 
