@@ -6,9 +6,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Ivan Grimm <work@ivangrimm.dev>",
+  "license": "MIT",
+  "description": "A simple RESTful API platform for managing resources such as users or products. It includes authentication with JWT (JSON Web Tokens) and a user interface built with React.",
   "dependencies": {
     "axios": "^1.7.2",
     "bcryptjs": "^2.4.3",
